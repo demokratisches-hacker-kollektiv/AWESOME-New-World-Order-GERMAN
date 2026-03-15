@@ -148,7 +148,53 @@ Die Analyse der Supply-Chain-Landschaft zeigt aktive Bedrohungen:
 
 ---
 
-## 🛠️ Tools & Ressourcen
+## � Aktuelle Forschungsergebnisse
+
+### ⛓️ Supply Chain Security 2025
+
+**Entwicklungen:** Dritte-Party-Breachs haben sich auf 30% aller Datenverletzungen verdoppelt (Verizon DBIR 2025)
+
+| Bedrohung | Statistik | Schutzmaßnahmen |
+|---|---|---|
+| **Open Source Malware** | 1.300% Zunahme seit 2020, 704.102 bösartige Pakete | [ossillate-inc/packj](https://github.com/ossillate-inc/packj) Analyse |
+| **Third-Party Breaches** | Durchschnittliche Kosten: $4.44M (IBM 2025) | [step-security](https://github.com/step-security) GitHub Actions Security |
+| **SolarWinds/3CX/MOVEit** | Targeting von Build-Systemen & vertrauenswürdigen Anbietern | [NIST C-SCRM](https://github.com/cisagov/CSF-Tool) Framework |
+
+**Schlüsselempfehlungen:**
+- **Zero Trust Model:** "Never trust, always verify" - Basis-Anforderung für moderne Supply Chain Security
+- **SBOM Transparenz:** Software Bills of Materials sind nicht mehr verhandelbar
+- **Resilienz über Prävention:** 100% Prävention ist unmöglich, Fokus auf schnelle Erkennung und Wiederherstellung
+
+### 🎭 Cybermobbing & Grooming Forschung 2024
+
+**Statistische Erkenntnisse:**
+- **83% der Eltern** kennen den Begriff Cyber-Grooming (Statista 2024)
+- **16% der 14-17jährigen** haben bereits Cyber-Mobbing erlebt (Sinus-Jugendstudie 2024)
+- **25% mit Cyber-Grooming konfrontiert** (Durchblickt 2024)
+
+**Akademische Forschung:**
+- **Systematic Literature Review (2024):** Identifiziert Prävalenz und Methoden von Cyberstalking
+- **Victimization Models:** Kriminologische Theorien zur Erklärung des Täterverhaltens
+- **Gender Differences:** Untersuchung der Rollen von Risiko, Kontrolle und moralischer Disengagement
+
+### 🚨 Pädophilen-Netzwerke 2024
+
+**Großeinsatz in Bayern:** 79 Festnahmen, über 50 Kinderpuppen sichergestellt
+
+| Fall | Details | Quelle |
+|---|---|---|
+| **"Deutsches Pädophilen Forum"** | Umfassende Netzwerk- und Bandenstrukturen aufgedeckt | [ZEIT Online](https://www.zeit.de/news/2024-09/13/schlag-gegen-paedophilen-netzwerk-kind-befreit) |
+| **Internationale Ringe** | Verdächtige aus mehreren Bundesländern, Darknet-Aktivität | [BKA Lagebild](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/Lagebilder/SexualdelikteNvKindernuJugendlichen/2024/BLBSexualdelikte_2024.html) |
+| **Wohnungsgemeinschaften** | 7 Männer in WG in Südhessen, systematische Kinderpornografie-Verbreitung | [Generalstaatsanwaltschaft Bamberg] |
+
+**Schutzmaßnahmen für Eltern:**
+- **Digitale Gewalt erkennen:** Warnzeichen verstehen, präventive Maßnahmen
+- **Kommunikationskontrolle:** Überprüfung von Social Media Aktivitäten
+- **Technische Schutzmaßnahmen:** Content-Filter, Monitoring-Tools
+
+---
+
+## �️ Tools & Ressourcen
 
 ### 🔍 Ermittlungstools
 
@@ -173,6 +219,24 @@ Die Analyse der Supply-Chain-Landschaft zeigt aktive Bedrohungen:
 | **OBS Studio** | Bildschirmaufnahme für Beweisdokumentation | [![Website](https://img.shields.io/badge/website-obsproject.com-blue)](https://obsproject.com/) |
 | **HashMyFiles** | Datei-Hashing für Integritätsnachweise | [![GitHub stars](https://img.shields.io/github/stars/FiloSottile/HashMyFiles?style=social)](https://github.com/FiloSottile/HashMyFiles) |
 | **[insultdetector](https://github.com/michaloblastni/insultdetector)** | BCI-basierte Analyse psychologischer Angriffe | [![GitHub stars](https://img.shields.io/github/stars/michaloblastni/insultdetector?style=social)](https://github.com/michaloblastni/insultdetector) |
+
+### 📚 Akademische Ressourcen
+
+| Bereich | Institution | Schwerpunkt | Link |
+|---|---|---|
+| **Supply Chain Security** | Stanford GSB | Business Innovation & Security Research | [![Website](https://img.shields.io/badge/website-gsb.stanford.edu-blue)](https://www.gsb.stanford.edu/faculty-research/publications/innovators-supply-chain-security) |
+| **Cyberstalking Research** | ScienceDirect | Systematic Literature Review | [![Website](https://img.shields.io/badge/website-sciencedirect.com-blue)](https://www.sciencedirect.com/science/article/pii/S004016252031252X) |
+| **Targeted Individuals** | NCBI | EEG-basierte TI-Forschung | [![Website](https://img.shields.io/badge/website-ncbi.nlm.nih.gov-blue)](https://pubmed.ncbi.nlm.nih.gov/40271872/) |
+| **Government Security** | NCSU | Wolfpack Security & Privacy Research | [![Website](https://img.shields.io/badge/website-ncsu.edu-blue)](https://wspr.csc.ncsu.edu/papers.html) |
+
+### 🏢 Behörden & Organisationen
+
+| Organisation | Aufgabe | Kontakt |
+|---|---|---|
+| **BKA - ZKI** | Zentrale Stelle für Cyberkriminalität | [![Website](https://img.shields.io/badge/website-bka.de-blue)](https://www.bka.de) |
+| **ZKI - Kinderschutz** | Kinderpornografie-Bekämpfung | [![Website](https://img.shields.io/badge/website-zki.de-blue)](https://www.zki.de) |
+| **Bündnis gegen Cybermobbing** | Opferunterstützung & Prävention | [![Website](https://img.shields.io/badge/website-buendnis-gegen-cybermobbing.de-blue)](https://buendnis-gegen-cybermobbing.de/aktivitaeten/studien.html) |
+| **Nummer gegen Kummer** | Kinder- & Jugendschutz | Tel: 116 111 (kostenlos) |
 
 ---
 
