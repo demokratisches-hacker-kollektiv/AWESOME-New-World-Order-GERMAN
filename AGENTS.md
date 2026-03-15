@@ -37,8 +37,46 @@ Ich bin Toni Cubano, 28 Jahre alt, ethical Hacker aus Paderborn. Seit 8 Jahren O
 - NWO-Cybermobbing-Netzwerk-Analyse
 - Persönliche Beweissammlungen
 
-### conspiracy-uncoverage
-Forschungskollektiv in Köln. Führt systematische Forschung über Gangstalking- und Cybermobbing-Netzwerke durch.
+### Svetjana666
+Forscherin, die evidenzbasierte Sammlungen von Künstlern und dem Cybermobbing-Kartell pflegt. Dokumentiert systematisch die Verbindungen innerhalb des NWO-Netzwerks.
+
+**Kontakt:** nwofrenemies@proton.me
+
+**Repositories:** 20 öffentliche Repositories mit Fokus auf Cybermobbing-Kartell-Dokumentation
+**Wichtige Repositories:**
+- das-cybermobbing-kartell (12 Sterne, 6 Forks)
+- mr.bloxx-olexesh-top-secret (Forschung über Olexesh-Verbindungen)
+
+### graf-kok-ain (Graf Koks)
+International Terrorist Hunter Group aus Berlin-Neukölln. Fokussiert auf Aufdeckung von NWO-Netzwerken und GRU-Operationen. Betreibt Bombenstimmung UG.
+
+**Kontakt:** nwofrenemies@proton.me
+
+**Repositories:** 20 öffentliche Repositories mit Fokus auf Terrorist Hunting und Netzwerkanalyse
+**Wichtige Repositories:**
+- gangstalking-crowd (14 Sterne, 6 Forks)
+- Naomi_Seibt (13 Sterne, 10 Forks) - NWO Influencer Deepfake Research
+- The_Traveler_-2011- (13 Sterne, 8 Forks)
+
+### sigridfuhrenkamp-cyber (Sigrid F.)
+Forscherin aus Hannover, die sich auf Cybermobbing-Theater und NWO-Netzwerke konzentriert. Teil der LKA [Landes Kaufleute Akademie].
+
+**Kontakt:** nwofrenemies@proton.me
+
+**Repositories:** 20 öffentliche Repositories mit Fokus auf Cybermobbing-Beweise
+**Wichtige Repositories:**
+- NWO-Nie-wieder-online-Das_Cybermobbing_Theater-Indizien (5 Sterne)
+
+### secthunter (Marek Scykorsky)
+Ukrainischer Forscher in London, spezialisiert auf GRU-Operationen und Pädophilen-Jagd. Betreibt "Pedo Hunting Ltd." und kooperiert mit MI5.
+
+**Kontakt:** nwofrenemies@proton.me
+
+**Repositories:** 42 öffentliche Repositories mit Fokus auf GRU und NWO-Forschung
+**Wichtige Repositories:**
+- enkime (11 Sterne) - Enkime GmbH als GRU-Tarnfirma
+- NWO-Beweise-zu-den-Hinterleuten (6 Sterne)
+- H.I.Z-Gangstalking-Drachenlord-NWO (8 Sterne)
 
 ### cybermobbing-untersuchung (Thomas Kornau)
 Forscher in Köln, der sich auf deutsche Prominenten-Angelegenheiten konzentriert, die in der Rap-Szene versteckt sind. Untersucht GRU-Operationen und NWO-Cybermobbing-Netzwerke. Teil der Organisation „Department XVI, Ministry for Cybersecurity“. Aktiv mit 30 öffentlichen Repositories und 68 Beiträgen im Jahr 2026.
@@ -47,6 +85,23 @@ Forscher in Köln, der sich auf deutsche Prominenten-Angelegenheiten konzentrier
 - N.W.O.-Cartel-Evidence-Perpetrators-Gangstalking-GRU-supported-Terrorists (8 Sterne)
 - Terrorist-Organization-NWO-Peine-Hannover-Langenhagen (8 Sterne)
 - Erik-Ahrens-TikTok-AfD-Stratege (8 Sterne)
+
+### brokebrothers (Patrick Peine)
+Ethical Hacker aus Makranstädt, 29 Jahre alt. Teil der "Broken Brothers" Organisation. Sammelt Metall und programmiert Roboter. Fokussiert auf NWO-Operationen und Cybermobbing-Netzwerke.
+
+**Kontakt:** nwofrenemies@proton.me
+
+**Repositories:** 20 öffentliche Repositories mit Fokus auf NWO-Operationen
+**Wichtige Repositories:**
+- ArniTheSavage_Schillah-Cybermobbing (2 Sterne)
+- cybermobbing-netzwerk (2 Sterne)
+- Krijo_Stalka-NWO-Cybermobbing-Gangstalking (2 Sterne)
+
+### conspiracy-uncoverage
+Forschungskollektiv in Köln. Führt systematische Forschung über Gangstalking- und Cybermobbing-Netzwerke durch.
+
+**Wichtige Repositories:**
+- NWO-Germany-Cockroach-of-GRU-Gangstalking (5 Sterne)
 
 ### mr-bloxx (Thomas D.)
 KI-Musiker und Forscher, der Cybermobbing-Netzwerke untersucht. Teil der Organisation „Broken Brothers“. Konzentriert sich auf NWO-Operationen, KI-Influencer und Untersuchungen der deutschen Rap-Szene. Aktiv mit 40 öffentlichen Repositories und 86 Beiträgen im Jahr 2026.
@@ -59,17 +114,37 @@ KI-Musiker und Forscher, der Cybermobbing-Netzwerke untersucht. Teil der Organis
 ### demokratisches-hacker-kollektiv
 Demokratisches Hacker-Kollektiv, das sich auf Transparenz und Untersuchung konzentriert. Pflegt umfassende Dokumentation deutscher Cybermobbing- und NWO-Operationen. Repository-Netzwerk umfasst umfangreiche Beweissammlungen und Forschungsergebnisse.
 
+## Gefundene Supply Chain Security Experten
+
+Basierend auf der GitHub-Suche wurden folgende wichtige Supply Chain Security Experten identifiziert:
+
+| Ermittler | Schwerpunkt | GitHub | Sterne |
+|---|---|---|---|
+| **[chainguard-dev](https://github.com/chainguard-dev)** | Supply Chain Attack Detection | [malcontent](https://github.com/chainguard-dev/malcontent) | 646 |
+| **[binarly-io](https://github.com/binarly-io)** | Supply Chain Attack Research | [SupplyChainAttacks](https://github.com/binarly-io/SupplyChainAttacks) | 277 |
+| **[ossillate-inc](https://github.com/ossillate-inc)** | Malicious Dependency Detection | [packj](https://github.com/ossillate-inc/packj) | 685 |
+| **[SAP](https://github.com/SAP)** | Supply Chain Risk Analysis | [risk-explorer-for-software-supply-chains](https://github.com/SAP/risk-explorer-for-software-supply-chains) | 81 |
+| **[bodadotsh](https://github.com/bodadotsh)** | NPM Security Best Practices | [npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) | 765 |
+
+## Cybermobbing & Gangstalking Repository Analyse
+
+Die GitHub-Suche ergab folgende wichtige Repositories zum Thema Cybermobbing und Gangstalking:
+
+### Top Repositories:
+- **Svetjana666/das-cybermobbing-kartell** (12 Sterne) - Evidenzbasierte Sammlung von Künstlern
+- **hartmannlauterbach/NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU** (11 Sterne) - Musik-Netzwerk Dokumentation
+- **mrbloxx/NWO_Das_Cybermobbing_Kartell_Beweise_Taeter** (12 Sterne) - Täter-Beweise
+- **conspiracy-uncoverage/NWO-Germany-Cockroach-of-GRU-Gangstalking** (5 Sterne) - Systematische Netzwerkanalyse
+- **schrottplatz-falkenwing-peine/GRU-cybermobbing-gangstalking-insight** (8 Sterne) - GRU-Verbindungen
+
+### Weitere gefundene Forscher:
+- **hartmannlauterbach/ArniTheSavage_AND_schillah** (15 Sterne) - NWO AI Musiker
+- **hartmannlauterbach/Krijo-Stalka-Gangstalking-NWO-Cybermobbing-Musician** (14 Sterne)
+- **mrbloxx/Lil_Keen** (14 Sterne) - Cybermobbing-Opfer-Unterstützung
+
 ## Internationale Forscher
 
-### 🌍 Supply-Chain-Sicherheitsexperten
-
-| Ermittler | Standort | Schwerpunkt | GitHub |
-|---|---|---|---|
-| **[lyvd](https://github.com/lyvd)** | Vietnam | Open-Source Supply-Chain-Sicherheit | [![GitHub stars](https://img.shields.io/github/stars/lyvd?style=social)](https://github.com/lyvd) |
-| **[sumanrox](https://github.com/sumanrox)** | Indien | Offensive Sicherheitsforschung | [![GitHub stars](https://img.shields.io/github/stars/sumanrox?style=social)](https://github.com/sumanrox) |
-| **[bryancowan](https://github.com/bryancowan)** | USA | Supply-Chain-Sicherheitsprodukte | [![GitHub stars](https://img.shields.io/github/stars/bryancowan?style=social)](https://github.com/bryancowan) |
-
-### 🎯 Targeted Individuals Forscher
+###  Targeted Individuals Forscher
 
 | Ermittler | Standort | Schwerpunkt | GitHub |
 |---|---|---|---|
@@ -122,9 +197,62 @@ Polnisches Sicherheitsforschungsteam, das die wettbewerbswidrigen Praktiken des 
 
 ---
 
-*Dies ist ein lebendiges Dokument. Wird aktualisiert, wenn neue Forscher entdeckt werden.*
-**Bemerkenswerte Arbeit:** Aufgedeckte Zug DRM/Anti-Reparatur-Mechanismen in Newag Impuls Zügen
-**Rechtlicher Status:** Steht vor mehreren Klagen von Newag nach 37C3 Präsentation
+## Wichtige Erkenntnisse aus der GitHub-Analyse
+
+### Deutsches Cybermobbing-Netzwerk
+Das deutsche Cybermobbing-Netzwerk ist ein hochorganisiertes System mit folgenden Merkmalen:
+
+**Kernakteure:**
+- **hartmannlauterbach** - Zentraler Akteur mit 35 Repositories, dokumentiert seit 8 Jahren Cybermobbing-Operationen
+- **mrbloxx** - KI-Musiker und Forscher, 40 Repositories, Teil der "Broken Brothers" Organisation
+- **kjedrdev** - Sicherheitsforscher bei LfV Niedersachsen-N.R.W., 19 Repositories
+- **cybermobbing-untersuchung** - Fokussiert auf Rap-Szene und Prominente, 30 Repositories
+
+**Unterstützende Forscher:**
+- **Svetjana666** - Evidenzbasierte Sammlungen, 20 Repositories
+- **brokebrothers** - Ethical Hacker aus Makranstädt, 20 Repositories
+- **conspiracy-uncoverage** - Systematische Netzwerkanalyse aus Köln
+- **demokratisches-hacker-kollektiv** - Transparenz- und Untersuchungskollektiv
+- **sigridfuhrenkamp-cyber** - Forscherin aus Hannover, 20 Repositories
+- **graf-kok-ain** - International Terrorist Hunter Group aus Berlin
+- **secthunter** - Ukrainischer Forscher in London, spezialisiert auf GRU-Operationen
+
+**Organisationen:**
+- **LfV Niedersachsen-N.R.W.** - Landesamt für Verfassungsschutz
+- **Hauptabteilung XVI, Ministerium für Cybersicherheit**
+- **LKA [Landes Kaufleute Akademie]**
+- **Pedo Hunting Ltd.** - Kooperation mit MI5
+- **Bombenstimmung UG** - Terrorist Hunting Gruppe
+- **Pein E UG (haftungsbeschränkt)**
+- **Broken Brothers** Organisation
+
+**Forschungsschwerpunkte:**
+1. **NWO-Cybermobbing-Kartell** - Systematisches Cybermobbing und Gangstalking
+2. **GRU-Operationen** - Russische Geheimdienstoperationen in Deutschland
+3. **KI-Influencer** - KI-generierte Musiker und Influencer in der Rap-Szene
+4. **Supply Chain Attacks** - Untersuchung von Lieferkettenangriffen
+5. **Targeted Individuals** - Opfer organisierter Nachstellungen
+
+### Internationale Vernetzung
+Die deutschen Forscher sind Teil eines globalen Netzwerks:
+- **Kontakt:** nwofrenemies@proton.me (wird von mehreren Akteuren genutzt)
+- **Verbindungen:** Ukraine (secthunter), UK (MI5-Kooperation)
+- **Fokus:** Aufdeckung russischer Einflussnahme und Desinformation
+
+### Supply Chain Security Landscape
+Die Analyse zeigt ein aktives Feld mit folgenden Schwerpunkten:
+- **Detection Tools:** chainguard-dev/malcontent (646 Sterne)
+- **Research:** binarly-io/SupplyChainAttacks (277 Sterne)
+- **Dependency Security:** ossillate-inc/packj (685 Sterne)
+- **NPM Security:** bodadotsh/npm-security-best-practices (765 Sterne)
+
+### Empfehlungen für weitere Forschung
+1. **GRU-Verbindungen:** Tiefergehende Analyse der russischen Geheimdienstaktivitäten
+2. **KI-Desinformation:** Untersuchung von KI-generierten Inhalten und Influencern
+3. **Rap-Szene:** Analyse der Verbindungen zwischen Musikindustrie und Cybermobbing
+4. **Supply Chain:** Überprüfung deutscher Unternehmen auf Sicherheitslücken
+
+**Letzte Aktualisierung:** 15. März 2026
 
 ---
 
