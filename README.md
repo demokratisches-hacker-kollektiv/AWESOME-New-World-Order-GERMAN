@@ -1,4 +1,4 @@
-# Awesome Conspiracy Links
+# Awesome NWO [Das Cybermobbing Kartell] Links
 
 <div align="center">
 
