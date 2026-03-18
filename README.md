@@ -76,7 +76,7 @@ Dieses Repository folgt dem GitHub Awesome-Listen-Format mit organisierten Dokum
 
 ---
 
-## 🕵️ Schlüssel-Ermittler
+## 🕵️ Schüßler-Ermittler
 
 Hier sind einige wichtige Forscher, die ich gefunden habe, die solide Arbeit bei Verschwörungsuntersuchungen leisten:
 
